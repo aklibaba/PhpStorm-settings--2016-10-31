@@ -1,15 +1,15 @@
 <application>
   <component name="WebServers">
     <option name="servers">
-      <webServer id="91023406-7462-495f-820f-ed944cfdfaba" name="Direktpoint" url="http://direktpoint.pl">
+      <webServer id="91023406-7462-495f-820f-ed944cfdfaba" name="dev 29 - sluzba cywilna" url="http://direktpoint.pl">
         <fileTransfer host="direktpoint.pl" port="21" rootFolder="/dev29.direktpoint.pl/sites/all">
           <advancedOptions>
-            <advancedOptions dataProtectionLevel="Private" passiveMode="true" />
+            <advancedOptions dataProtectionLevel="Private" />
           </advancedOptions>
           <option name="port" value="21" />
         </fileTransfer>
       </webServer>
-      <webServer id="bd9d979b-263e-49fe-a398-173480d0aa47" name="Alpha" url="http://tms-alpha.pl">
+      <webServer id="bd9d979b-263e-49fe-a398-173480d0aa47" name="tms alpha" url="http://tms-alpha.pl">
         <fileTransfer host="tms-alpha.pl" port="21" rootFolder="/var/www/server-alpha/lp.tms.pl/tmscamp_current/web/themes">
           <advancedOptions>
             <advancedOptions dataProtectionLevel="Private" />
@@ -20,6 +20,6 @@
     </option>
   </component>
   <component name="webServersAuthStorage">
-    <data>AAABQKPfd9bLCwjiRRyb2C7B27KPhv/Y/OEZ+b4/klZjqE4qf7tBFFaYSMgrsMY9vK4sPT2uS0UMouuniMFHaIb7jtaqKl3YGc/LSHwiseKPODJ4hZ4iM5/zC37FHitnIDq8Bu5rYl30+sETH/wVJqa2vACmuzSQxRQeQ8cwSu/uuEIKuo075x8CFvh4yO8K/Ysh0RVtynRvmjtR+ZwFiGuPdrI1FThokHkPf1mWFX82mYKH2VVvsDj110FH3qHjwOLM3Jr3D0nAgs4swNIDDKKr9W3oX7GBODDvuHxXq4mGTOs8+HZ6e1rYFPYQ/7AzvkFTe9WqCr21pUZqSwW0tXBe5YTrva5IHxx3ag3PZfgB2yI2jDEZbFoUhIHa1uHQsOr/VPkHOoux6X2i3vrsmP69wc0UL4MB4LF+8lug62Ja+O6dXKnbaytxCuzO3OMJ7/ra6w==</data>
+    <data>AAABQGS80d87i9+fZ/tMm/Eok0mtuNKRTjD/J+TwIWMO87gJZ5JGH/jo1XzSl0AMhJZ7zexEbmFxlHKd8dKN1bwLi4SG+r5qbv2ZbaO3jBSoPEN+3mlyJ1W/MZvs2Y0wot6CjFHGOI0G/9Ks92gruXcfFVTFryht2G20X/vi20Qo84KTjqfkYPlQ23DV6m9C2SelLnLRegh7laonEU0KdNGJfsT+AUiaFEodCmWB72pPpq7OdCIQPhds2eGkr64hOlj2ZRWy5zQb8XxTl2zPmPvEOqSkjmpqBn2huafHSnAC2miLioQlLRX+OOBipZSd5Qmhrc0cJtbi1CD0veQfRnXg+wZuHpjpVDCXTWE1dJgqZl4I9DfQ6VqjfR6MQGNe6iXwgPm/4BZ/mEfQ7YstjAV5OEkUlosJr2UYh6I3OF/UWik1ENnzpKolV3DFilnhrMa/Xw==</data>
   </component>
 </application>
