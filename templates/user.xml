@@ -5,7 +5,7 @@
       <option name="PHP" value="true" />
     </context>
   </template>
-  <template name="comment-section" value="/* ==========================================================================&#10;   $comment$&#10;   ========================================================================== */&#10;   $END$" description="Section comment block" toReformat="false" toShortenFQNames="true">
+  <template name="comment-section" value="/* =================================================================&#10;   $comment$&#10;   ================================================================= */&#10;   $END$" description="Section comment block" toReformat="false" toShortenFQNames="true">
     <variable name="comment" expression="" defaultValue="&quot;section comment&quot;" alwaysStopAt="true" />
     <context>
       <option name="CSS" value="true" />
