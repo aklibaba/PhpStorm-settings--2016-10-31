@@ -5,10 +5,7 @@
       <option name="PHP" value="true" />
     </context>
   </template>
-  <template name="comment-section" value="/* =================================================================&#10;   $comment$&#10;   ================================================================= */&#10;   $END$" description="Section comment block" toReformat="false" toShortenFQNames="true">
-    <variable name="comment" expression="" defaultValue="&quot;section comment&quot;" alwaysStopAt="true" />
-    <context>
-      <option name="CSS" value="true" />
-    </context>
+  <template name="css-placeholder-color" value="//placeholders&#10;$placeholder-color: #7a7a7a;&#10;::-webkit-input-placeholder {&#10;    color: $placeholder-color;&#10;}&#10;&#10;:-moz-placeholder { /* Firefox 18- */&#10;    color: $placeholder-color;&#10;}&#10;&#10;::-moz-placeholder {  /* Firefox 19+ */&#10;    color: $placeholder-color;&#10;}&#10;&#10;:-ms-input-placeholder {&#10;    color: $placeholder-color;&#10;}" description="css-placeholder-color" toReformat="false" toShortenFQNames="true">
+    <context />
   </template>
 </templateSet>

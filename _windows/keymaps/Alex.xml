@@ -15,7 +15,9 @@
   </action>
   <action id="EditorDeleteLine">
     <keyboard-shortcut first-keystroke="ctrl k" />
+    <keyboard-shortcut first-keystroke="ctrl delete" />
   </action>
+  <action id="EditorDeleteToWordEnd" />
   <action id="EditorIndentLineOrSelection">
     <keyboard-shortcut first-keystroke="shift ctrl alt close_bracket" />
   </action>

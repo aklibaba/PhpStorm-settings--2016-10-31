@@ -49,7 +49,8 @@
   </component>
   <component name="NodeJsLocalInterpreters">
     <local-interpreter path="C:/Program Files/nodejs/node.exe">
-      <version-cache version="4.4.3" last-modified="1460483132000" />
+      <version-cache version="6.5.0" last-modified="1472218450000" />
+      <npm-package value="C:/Program Files/nodejs/node_modules/npm" />
     </local-interpreter>
   </component>
 </application>
