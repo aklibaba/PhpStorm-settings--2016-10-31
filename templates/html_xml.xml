@@ -7,9 +7,4 @@
       <option name="XML_TEXT" value="true" />
     </context>
   </template>
-  <template name="todo-css" value="//TODO: testing / development" description="TODO in CSS" toReformat="false" toShortenFQNames="true">
-    <context>
-      <option name="CSS" value="true" />
-    </context>
-  </template>
 </templateSet>

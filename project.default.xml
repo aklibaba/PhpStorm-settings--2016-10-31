@@ -12,10 +12,6 @@
         <ConfirmationsSetting value="0" id="Add" />
         <ConfirmationsSetting value="0" id="Remove" />
       </component>
-      <component name="PropertiesComponent">
-        <property name="last_opened_file_path" value="$USER_HOME$/PhpstormProjects" />
-        <property name="nodejs_interpreter_path" value="C:/Program Files/nodejs/node" />
-      </component>
     </defaultProject>
   </component>
 </application>
