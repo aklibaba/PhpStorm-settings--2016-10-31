@@ -2,9 +2,9 @@
   <component name="WebServers">
     <option name="servers">
       <webServer id="91023406-7462-495f-820f-ed944cfdfaba" name="dev 29 - sluzba cywilna" url="http://direktpoint.pl">
-        <fileTransfer host="direktpoint.pl" port="21" rootFolder="/dev29.direktpoint.pl/sites/all">
+        <fileTransfer host="direktpoint.pl" port="21">
           <advancedOptions>
-            <advancedOptions dataProtectionLevel="Private" />
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" />
           </advancedOptions>
           <option name="port" value="21" />
         </fileTransfer>
@@ -20,6 +20,6 @@
     </option>
   </component>
   <component name="webServersAuthStorage">
-    <data>AAABQGGJg4NsGkwjcEbQgu4lUAcNT/iiNGEGTUKcpnCL6QNXPMUDRU1lxYXQsVll6IkgbHCF5a8YX5W8i6uVmj1K1cJ5nYONYe/EAOh84grHzDPl57nMglFuFWQugjo1Hv/eJ8V0QIzqylpQpLJ/JdEy3VRVWELtHkcHyu7VQ5+Yfwdf/1YvFya/ky0xzJYCcq5YS9sFz6lrIV7GpSJ3UNWazDVtpElJemLos4i+jYJBq8aB4JtrUFI1B7UN9OiKE1p95mdQ88RUm/8gfS+YFBKNSoOiOkstN6i7rMpcRCWKdEKUVyY/UlPZbGN44+hp6i6zGGmeIoDQsh8tV6kzLKJjT97SSiqiBq/6iTOCPODyesU/5JhZZanWpBBtQhw0Lr9ZswgC7O1kB8tFZIrMQ9RfVKVnI1dljnsHiHg/BTPk4qyBjzrvA6RrjKxJzfRgigqstA==</data>
+    <data>AAABQKTlwE17dHd2P7UMI5zln3DgMUxgvIWoavHhIBxzg855suh32Y7/VENH8bP0RNAgMXH0k1pXI2+odujPT9NVdqYLQbaFEap7z3mgtjtf9Y31lOlp01wyqndm1IcU//0IbH1LC4mD/5rwF8KABGa/9YhlL1c8cOInpAN4X3h5YCQaHLlWvoyv94QKkG+aCE7lpLIh4iTuFPQk4ac8CuTRavsKtp5mUsLd1R9GX1Nii/yMrmIoPQ4USDgC5r+oVO8tlIa3cQ7mUKKZBGuPWLj6Gl0PNxOKw0F9hoDpoI6dDaPGZLClEE2fbhRx2cFFMJZ/ap9QZ7OXJaQwdZSCEPHP8TWBCs2jicxZkHYl20vmRB1QSCsXLU9w1Biv2xUkeDzTNZeI6KWGqjTFkDybke3ygHzfGDRvHFBaR2SrSl2sNdZEGXYBPIzm284tHXUnXpV4RQ==</data>
   </component>
 </application>
