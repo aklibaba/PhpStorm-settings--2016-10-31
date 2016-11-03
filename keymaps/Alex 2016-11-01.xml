@@ -6,6 +6,14 @@
     <keyboard-shortcut first-keystroke="ctrl f4" />
     <keyboard-shortcut first-keystroke="ctrl alt w" />
   </action>
+  <action id="Console.TableResult.NextPage" />
+  <action id="Console.TableResult.PreviousPage" />
+  <action id="EditorCloneCaretAbove">
+    <keyboard-shortcut first-keystroke="ctrl alt up" />
+  </action>
+  <action id="EditorCloneCaretBelow">
+    <keyboard-shortcut first-keystroke="ctrl alt down" />
+  </action>
   <action id="EditorDeleteLine">
     <keyboard-shortcut first-keystroke="ctrl delete" />
     <keyboard-shortcut first-keystroke="ctrl k" />
@@ -14,9 +22,11 @@
   <action id="MoveEditorToOppositeTabGroup">
     <keyboard-shortcut first-keystroke="shift ctrl alt p" />
   </action>
+  <action id="NextOccurence" />
   <action id="OpenInBrowser">
     <keyboard-shortcut first-keystroke="alt b" />
   </action>
+  <action id="PreviousOccurence" />
   <action id="SplitVertically">
     <keyboard-shortcut first-keystroke="alt p" />
   </action>

@@ -1,0 +1,7 @@
+<templateSet group="Zen CSS">
+  <template name="todo-css" value="//TODO: development" description="TODO: development" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="CSS" value="true" />
+    </context>
+  </template>
+</templateSet>
