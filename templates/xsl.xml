@@ -1,7 +1,0 @@
-<templateSet group="xsl">
-  <template name="print-path" value="&lt;?php print $path ?&gt;" toReformat="false" toShortenFQNames="true">
-    <context>
-      <option name="PHP" value="true" />
-    </context>
-  </template>
-</templateSet>
