@@ -1,0 +1,48 @@
+<templateSet group="Alex__2016-11-04">
+  <template name="comment-section" value="/* ==================================================================&#10;   $comment$&#10;   ================================================================== */&#10;$END$" toReformat="false" toShortenFQNames="true">
+    <variable name="comment" expression="" defaultValue="&quot;Section comment block&quot;" alwaysStopAt="true" />
+    <context>
+      <option name="CSS" value="true" />
+    </context>
+  </template>
+  <template name="comment-subsection" value="&#10;/* $comment$&#10;   ====================================== */&#10;$END$" toReformat="false" toShortenFQNames="true">
+    <variable name="comment" expression="" defaultValue="&quot;Section comment block&quot;" alwaysStopAt="true" />
+    <context>
+      <option name="CSS" value="true" />
+    </context>
+  </template>
+  <template name="conlog" value="console.log($END$);" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="JAVA_SCRIPT" value="true" />
+    </context>
+  </template>
+  <template name="getId" value="document.getElementById('$id$');$END$" toReformat="false" toShortenFQNames="true">
+    <variable name="id" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="JAVA_SCRIPT" value="true" />
+    </context>
+  </template>
+  <template name="getClass" value="document.getElementsByClassName('$class$');$END$" toReformat="false" toShortenFQNames="true">
+    <variable name="class" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="JAVA_SCRIPT" value="true" />
+    </context>
+  </template>
+  <template name="query" value="document.querySelector('$selector$');$END$" toReformat="false" toShortenFQNames="true">
+    <variable name="selector" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="JAVA_SCRIPT" value="true" />
+    </context>
+  </template>
+  <template name="queryAll" value="document.querySelectorAll('$selector$');$END$" toReformat="false" toShortenFQNames="true">
+    <variable name="selector" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="JAVA_SCRIPT" value="true" />
+    </context>
+  </template>
+  <template name="smoothscroll" value="//Smooth Scroll&#10;function smoothScroll(name)&#10;{&#10;    $(name).on('click', function (e)&#10;    {&#10;        e.preventDefault();&#10;        var target = this.hash;&#10;        var $target = $(target);&#10;        $('html, body').stop().animate({&#10;            'scrollTop': $target.offset().top&#10;        }, 900, 'swing', function ()&#10;        {&#10;            window.location.hash = target;&#10;        });&#10;    });&#10;}//smooth scroll" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="JAVA_SCRIPT" value="true" />
+    </context>
+  </template>
+</templateSet>
