@@ -1,0 +1,43 @@
+<templateSet group="Alex__2016-11-04">
+  <template name="comment-section" value="/* ==================================================================&#10;   $comment$&#10;   ================================================================== */&#10;$END$" toReformat="false" toShortenFQNames="true">
+    <variable name="comment" expression="" defaultValue="&quot;Section comment block&quot;" alwaysStopAt="true" />
+    <context>
+      <option name="CSS" value="true" />
+    </context>
+  </template>
+  <template name="comment-subsection" value="&#10;/* $comment$&#10;   ====================================== */&#10;$END$" toReformat="false" toShortenFQNames="true">
+    <variable name="comment" expression="" defaultValue="&quot;Section comment block&quot;" alwaysStopAt="true" />
+    <context>
+      <option name="CSS" value="true" />
+    </context>
+  </template>
+  <template name="conlog" value="console.log($END$);" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="JAVA_SCRIPT" value="true" />
+    </context>
+  </template>
+  <template name="getId" value="document.getElementById('$id$');$END$" toReformat="false" toShortenFQNames="true">
+    <variable name="id" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="JAVA_SCRIPT" value="true" />
+    </context>
+  </template>
+  <template name="getClass" value="document.getElementsByClassName('$class$');$END$" toReformat="false" toShortenFQNames="true">
+    <variable name="class" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="JAVA_SCRIPT" value="true" />
+    </context>
+  </template>
+  <template name="query" value="document.querySelector('$selector$');$END$" toReformat="false" toShortenFQNames="true">
+    <variable name="selector" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="JAVA_SCRIPT" value="true" />
+    </context>
+  </template>
+  <template name="queryAll" value="document.querySelectorAll('$selector$');$END$" toReformat="false" toShortenFQNames="true">
+    <variable name="selector" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="JAVA_SCRIPT" value="true" />
+    </context>
+  </template>
+</templateSet>
