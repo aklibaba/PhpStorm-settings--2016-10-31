@@ -12,7 +12,7 @@
       <webServer id="bd9d979b-263e-49fe-a398-173480d0aa47" name="tms alpha" url="http://tms-alpha.pl">
         <fileTransfer host="tms-alpha.pl" port="21" rootFolder="/var/www/server-alpha/lp.tms.pl/tmscamp_current/web/themes">
           <advancedOptions>
-            <advancedOptions dataProtectionLevel="Private" />
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" />
           </advancedOptions>
           <option name="port" value="21" />
         </fileTransfer>
@@ -20,6 +20,6 @@
     </option>
   </component>
   <component name="webServersAuthStorage">
-    <data>AAABQMcju7f6/+21tHZNJPRcdq8Dr1fPMX5eJaZ7bWyeeI6J2Z4bJ2yDAEh4PLO5ZJ8bSiqVoHwGHmMt6ZYH+xIluBBLjU9VOCRHyZtLrgCN5HpUTrKFzWljcrKj807JENitCSXRaJcKz2/ooMHPmR754Xq0R1IJuMg5zR/UFoqe/lvzMkwwRwQGoILqJPlmc1rXR21hHQqABwd2YFV1hRwwja8idVNaz8qNvVRAe7I5eY2Y2qGBYNiqvogTa8f+0dncFoEc5TvbbnHNjZ0iW5RJ381/OLm8coiwF52cSUzgFO/gpOH7DoINKwXu/RWuz2goH3ML1c+kXI3iaL7es3ogTR2BySSIzx9xDJUlt8su+o0o1JTBBDn+CTDIvKoIh/rCh4zzLdvuFyJl6n+iyp6UfiQ6foVktr1NHAL38ixZgqwbR6M5TsxCB9kfwrT0q9gsyw==</data>
+    <data>AAABQJTYh5t+H/Zq2CnSSFH9v1D6wWczorgo6GefoyFf15ghEzidAxfqEvxPXCHR4qhcEy+7rp7vsaAkLQ4wDIpiYAL2GVPiV/8a3qSw7mIVauVY4sdMePI9Y/Iz14N0HsfPXT0q97R1eg6DsvhQXqNY4Gp8ZL3X28AU5ufS8X8xGuq2Svqxw34kjvYW8Lh9Fm15AgRRTBT8I6kUiDUNof5rvAA+cmoHKO84R1rtTGcW0EmlXtoYXaAzkgUBPrRG6RUFciCeGJFxpzZzvZ8/g0Ykm4wMmqqL++P55zsZ0ITEopxXgf28hj1sVbB4+Pg+cIPxRWCskeWP5N7rQ5C5TXbOx8r+E+TgJ7jtwZktfZsXTM6hwZ2nedcPNiAc5GuTUHJ/qS1uk9SlojGwH4zvKoTZC6bbj9PjzZplCgjT6LQ4BRoejBfG/wUXWLPAn2MLTFu86Q==</data>
   </component>
 </application>
