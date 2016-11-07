@@ -40,7 +40,7 @@
       <option name="JAVA_SCRIPT" value="true" />
     </context>
   </template>
-  <template name="smoothscroll" value="//Smooth Scroll&#10;function smoothScroll(name)&#10;{&#10;    $(name).on('click', function (e)&#10;    {&#10;        e.preventDefault();&#10;        var target = this.hash;&#10;        var $target = $(target);&#10;        $('html, body').stop().animate({&#10;            'scrollTop': $target.offset().top&#10;        }, 900, 'swing', function ()&#10;        {&#10;            window.location.hash = target;&#10;        });&#10;    });&#10;}//smooth scroll" toReformat="false" toShortenFQNames="true">
+  <template name="smoothscroll" value="$(function() {&#10;    $('a[href*=&quot;#&quot;]:not([href=&quot;#&quot;])').click(function() {&#10;        if (location.pathname.replace(/^\//,'') == this.pathname.replace(/^\//,'') &amp;&amp; location.hostname == this.hostname) {&#10;            var target = $(this.hash);&#10;            target = target.length ? target : $('[name=' + this.hash.slice(1) +']');&#10;            if (target.length) {&#10;                $('html, body').animate({&#10;                    scrollTop: target.offset().top&#10;                }, 1000);&#10;                return false;&#10;            }&#10;        }&#10;    });&#10;})" toReformat="false" toShortenFQNames="true">
     <context>
       <option name="JAVA_SCRIPT" value="true" />
     </context>
