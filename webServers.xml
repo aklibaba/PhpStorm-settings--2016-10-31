@@ -17,9 +17,17 @@
           <option name="port" value="21" />
         </fileTransfer>
       </webServer>
+      <webServer id="2a5439a1-4e7c-4037-ac8a-7a3dea361645" name="moja-gastronomia" url="http://restaurantmanager.biz/">
+        <fileTransfer host="moja-gastronomia.com" port="21" rootFolder="/public_html">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" />
+          </advancedOptions>
+          <option name="port" value="21" />
+        </fileTransfer>
+      </webServer>
     </option>
   </component>
   <component name="webServersAuthStorage">
-    <data>AAABQN6PWpEuJCOTg7OePlNBTMK2l5DndDTF9xgbXO9sm3G+PaA1aA+tKJa54g5FBnSVS7UMrrxPIr98aBJ0XiiyRaMjQ2rhp9APkyco4t5S9fo9GanET6LQGSKGYWFmoBGYZaf84urlQaFZSOAFg2R892iGYNkpDkYXpNHD2y8PlAyvVeStVqcIA0f1nsnj0KSq7qdHCCGGdHRkcpmJAIbN1DYqplqtHAW3Bk6f7U6ML7kLyucFAzEGGVvUdS96tP3R5h0tl35UUS4XZfBZclrnWiE8pmjTfCwmocer8l4xO5KHbS26vb0+Zk8JHUzZ53v0mRvYgj7wqpuVVJCHv+yoowta9xj4Med2QYuB1LHVpfMKdWE5mg6SQ5mWB792i4HbyqTVf6PBDqJaFmzu3S5KJZtEyq2o6ZJaxzhQzRFhwHscTxo7mPNrhKX6MR9XwcML4g==</data>
+    <data>AAABsLNE6yQy8unxzgElq0URXMxk8PBC3sQvaC1itdxXfsgCEeUIsKiEQV6StSKhGKiUflB5FJQDPAIks5xckmQrYEDfE1+CN1oy9Zx+7nFkcfETdOM2rxxbrVW0noAX0y0aNkAU1/WziYwtvaLItYQklrCbJ5gkRjoECjeHXjWNdXiH7LVDpSVDLn+70SaVvEHYa9SVfCOQDpsrilMUUY9CtRgVmK6qIaViZmLwYYIANvqqJMkQ0zxyM9XX1n+aZZ0g6YEVcD2oXTgWyMJ06oV0PFyM/hhKTe/65E7xCYuMMEfyQ7Hh4GKicGppzt/JFJYIBLTi07F9xajZGaGAOJdokUShfRlZ9zHTQT+ZqAp7YlibfhGdfUobB1MOyvoJBF3z71lrzYLTxe6jjXVS0jIBlSg3pEqPn1QJn2sEx3ZurWJqcUCzIhxwKv3wCCGvXC0ftoIaU+68dtobfU5I5SVNprzIra89gA85T2+Cy8VZ0hoFPmA3khkMOeVEAdLZjo4pUVfhcmyy8yMJTZzZ6nf/nvIG27ex/cK09oTIUYUw2ruo2H4Xci5AXuez4DQQ2p9MpRe2rjwtxCxSBf7pUD5Vrqw=</data>
   </component>
 </application>
