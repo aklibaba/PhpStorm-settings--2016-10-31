@@ -50,4 +50,10 @@
       <option name="HTML" value="true" />
     </context>
   </template>
+  <template name="print-path" value="&lt;?php print $path ?&gt;" description="to resolve paths in tms projects" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="HTML" value="true" />
+      <option name="PHP" value="true" />
+    </context>
+  </template>
 </templateSet>
