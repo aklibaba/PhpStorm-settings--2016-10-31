@@ -50,4 +50,15 @@
       <option name="HTML" value="true" />
     </context>
   </template>
+  <template name="print-path" value="&lt;?php print $path ?&gt;" description="to resolve paths in tms projects" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="HTML" value="true" />
+      <option name="PHP" value="true" />
+    </context>
+  </template>
+  <template name="viewport-dimensions" value="var viewportDimensions = {&#10;&#10;    width: Math.max(document.documentElement.clientWidth, window.innerWidth || 0),&#10;&#10;    height: Math.max(document.documentElement.clientHeight, window.innerHeight || 0)&#10;    &#10;};" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="JAVA_SCRIPT" value="true" />
+    </context>
+  </template>
 </templateSet>
