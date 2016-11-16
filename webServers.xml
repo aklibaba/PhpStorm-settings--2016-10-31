@@ -9,7 +9,7 @@
           <option name="port" value="21" />
         </fileTransfer>
       </webServer>
-      <webServer id="bd9d979b-263e-49fe-a398-173480d0aa47" name="tms-alpha-lp" url="http://tms-alpha.pl">
+      <webServer id="bd9d979b-263e-49fe-a398-173480d0aa47" name="tms alpha" url="http://tms-alpha.pl">
         <fileTransfer host="tms-alpha.pl" port="21" rootFolder="/var/www/server-alpha/lp.tms.pl/tmscamp_current/web/themes">
           <advancedOptions>
             <advancedOptions dataProtectionLevel="Private" passiveMode="true" />
@@ -36,6 +36,6 @@
     </option>
   </component>
   <component name="webServersAuthStorage">
-    <data>AAACMP1I7hoyzwZaBltUAIx9Ste2KUECto4XzKJogROssrde0+zu4cf8n2LsFTUCd3Z7As507UKpCpf6PAw3CQYmf45vDj+7fBv/Fu0VbMcjJeAflblURaOgIbu6F9FNpEDhyo0sAv0mRlAAT7DErfd9dZc6rcfxVpNALLQRyV4HwPnnqkPlI/XlhtoJVCZZzpJDCqTJOpNAere6ZT1NTb6iAdNwb1CvYQbi8m4UwBqU5JTWQJJmbAw2azX1R7rr9978LWSKnxD2+RR4aDqqqeML/0bDOccJ9tWQEpeeq/dJnrdpM/a4a4jpIxplyWemMmEZkBTLktd6yoA5tsIHNfIpqMdjMuEUg1e3DHiuclyiGhA6yaaAMS7WCk+J+qTMr5412vTDyrGFV9Sxa04PUwiGwRomSklsNJ3Uj5B7xhVNNryKNin5mZLiZmePjqHZqxyir8xASQEhJ5vsPoEv/hId0zXhZZSDKznSieqPcVzKzbYCxC1QL69K5ZhuJlQuEYj0O1fEejp/sEXuFDClYavYdRy/8NqMDRIue2TskT3/xr377l6u1y+9pKU/55e4BgxGa73tdMbjp6p/kULV49Gv+t1l+qzGLzivMbh7UFEfAhm59fpQq1AYzAepBH3O4g6jazqRHiNE7d1WA8+DuVl5J8yeOALA9QSn20jxVmBm9RsUMbnImMc80Qo2Pdnm3ERHqrbg4UeN+zeLeQhodt9Lc9f3nIWxRsG8U7gIoKGUFJiQQ+J/Emg/WkuFdUnKJODsrA==</data>
+    <data>AAACMAa3ULzzl4lHg5uICV3xGa/TR3BMMteFHPWFC0p/QTa0zb2tJrKWCytvnIvMwihuMevHjn+K8/g0xhD5b7qptBQLiygf0P8NXdWaPnym2TDd+6lJU8Lgv/+cA+4xIiax7Zag2Z4wzEmio6C2u39iU4xoPpjrizIeWqZjVhJel4PknHhCMvy0K39Uw1BGn/2diHmRj1nHVpdS2QU8FjnYKMRWaSY3v9kASPq8ZwekFJCU7MQZsFuzjER+Xt7k/dhNJSBgNH4qdFuW0Ks371BcZmhNbRAFvJe9TV2JIowjJYEyZxGCCCjQDmzjAWPySZHkS/dTw94bvxpADXFa3HMdJhM2SBKDDobPzo+4IG/sHmngo8OopPHULJtWGvt/ukbs052sckWzz0jpEMCFsdlkwXVtq1uOLLtRDgawbzrKouK5w3lIYye9Zh+uT2sVF8D9p+f9dj8NlKur1e0m8q4FE8mPlWKSxph3mfLqNWo/9QvGFPV7OuSLrYPtuv4ngIB3Yh52LmgUjkufaD3jd6ffuC794nYqtEs6wtUjZBpYjdCKknzSnezqVfvLCr3zVQINCRn76qSHIL/HxKmZrt8OlMWRF/rQC9dWCDdoZX4yhCXRINOWeFOSR7wbpL3Q7RiSDKxhPePTYIMONl8gmQ7FU2XylvH8bLNUbV1dNZzHww/4QRmQlUtNXwOyvxlue0yRgfVHboZ0shVc0yzonsjTdG+Lg9XQYi2THS79RvZ2W9cWnf1VEc3XDGPWkQKEZ1LCOQ==</data>
   </component>
 </application>
