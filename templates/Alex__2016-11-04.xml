@@ -67,4 +67,16 @@
       <option name="HTML" value="true" />
     </context>
   </template>
+  <template name="langchange" value="&lt;?php tms_lang_change('en', 'lt', 'lv', 'ru', 'et')?&gt;" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="HTML" value="true" />
+      <option name="PHP" value="true" />
+    </context>
+  </template>
+  <template name="translate" value="&lt;?php echo t('$END$') ?&gt;" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="HTML" value="true" />
+      <option name="PHP" value="true" />
+    </context>
+  </template>
 </templateSet>
