@@ -3,5 +3,7 @@
     <ignoreAction name="Language Injection/Un-inject Language/Reference" />
     <ignoreAction name="Language Injection/Inject language or reference" />
     <ignoreAction name="Language Injection/Edit Injected Fragment" />
+    <ignoreAction name="Language Injection/Edit Injection Settings" />
+    <ignoreAction name="XML/Split current tag" />
   </component>
 </application>
