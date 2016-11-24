@@ -1,23 +1,7 @@
 <application>
   <component name="WebServers">
     <option name="servers">
-      <webServer id="91023406-7462-495f-820f-ed944cfdfaba" name="dev 29 - sluzba cywilna" url="http://direktpoint.pl">
-        <fileTransfer host="direktpoint.pl" port="21">
-          <advancedOptions>
-            <advancedOptions dataProtectionLevel="Private" passiveMode="true" />
-          </advancedOptions>
-          <option name="port" value="21" />
-        </fileTransfer>
-      </webServer>
-      <webServer id="bd9d979b-263e-49fe-a398-173480d0aa47" name="tms alpha" url="http://tms-alpha.pl">
-        <fileTransfer host="tms-alpha.pl" port="21" rootFolder="/var/www/server-alpha/lp.tms.pl/tmscamp_current/web/themes">
-          <advancedOptions>
-            <advancedOptions dataProtectionLevel="Private" passiveMode="true" />
-          </advancedOptions>
-          <option name="port" value="21" />
-        </fileTransfer>
-      </webServer>
-      <webServer id="2a5439a1-4e7c-4037-ac8a-7a3dea361645" name="moja-gastronomia" url="http://restaurantmanager.biz/">
+      <webServer id="5801b1d7-ecd3-4ff2-9b79-5da23beb6eb0" name="moja-gastronomia" url="http://restaurant-manager.biz">
         <fileTransfer host="moja-gastronomia.com" port="21" rootFolder="/public_html">
           <advancedOptions>
             <advancedOptions dataProtectionLevel="Private" passiveMode="true" />
@@ -25,17 +9,6 @@
           <option name="port" value="21" />
         </fileTransfer>
       </webServer>
-      <webServer id="daa8a343-b1d6-4cf9-be28-00a23599bf33" name="tms-alpha-root" url="http://tms-alpha.pl">
-        <fileTransfer host="tms-alpha.pl" port="21" rootFolder="/var/www/server-alpha">
-          <advancedOptions>
-            <advancedOptions dataProtectionLevel="Private" />
-          </advancedOptions>
-          <option name="port" value="21" />
-        </fileTransfer>
-      </webServer>
     </option>
-  </component>
-  <component name="webServersAuthStorage">
-    <data>AAACMKDWNpnWt6f7amaddXpCPnbvUwVu9+6igQwP3j7Kpvx/417TB/G7dN9oqyNHt81yWDYlI1JJPGK1mMmGmWibjYtNO+KGzJufkr4HnN8dB0A05YLwOqasWVeaikH12JTmsiAOzdQfvUKBio2mjltYM84RWdar/K/Fviv1FChv/naHsu8GF1TTD82kroTNaB+Nk4/vrVRyG3+WM3pwQWyuuZko1iKcXGGaGFZVB+UyO7Pxf6UCzfvWRdY93slBZJyaXbAbfJbh2gPnuO7X3pW+pt680BEEYI+S0gbXpmznWyPSiS9f3/lIi31CJFUMbQ35xGmd8y/ZPKIQ2OBVlttUiX1JXMCYwwW039wRSOz2edlpGkvBqa9Y3/9XiCPW9OU+XnbLaEiAt7tt7H5wi+oXk42PuEP2L5GoIgfZ9Zyp54yB2XYqRrFFLFqKLu0zSi8jEWaPuKhtgOv9C8H5ANUMtoGPbntTT6/rxtDDXG1IzGYU0NOzuXSbALYtifmrZ/gPARuauckwHq23pTPgO2pq0BALFXJ0pkwnqol8BdDHnL2Ds0Y2D2n5/iyx6KLZ5tYeD+mDwz2BCxW2FjbBkAiLNxB+RStMXp+b2s2zITALnDYD0yOHcAnsbBSkNWOQTGerfcWp70ZVLQYrHnXqnfpcR7YxTcjAb1n2KNQxKa5wRlRrXs1RlvjTDOkHE/T2Rr9uG8T5c+SOBle/r6ZicVrvjb/XzdjZbmOC73y2v5DzV34SPLzRFEucdhWmP+KvJCy42A==</data>
   </component>
 </application>
